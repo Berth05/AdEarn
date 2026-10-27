@@ -1,0 +1,6 @@
+{
+  "name": "AdEarn",
+  "description": "Watch ads, earn reward points, and withdraw cash via PayPal, GCash, or Gift Cards with daily bonuses, streak multipliers, and referral rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
